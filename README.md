@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/solutions/react-tailwindcss-vite-LLDK_5VxFI)
+- Live Site URL: [live](https://nft-preview-card-component-six-ochre.vercel.app)
 
 ## My process
 
